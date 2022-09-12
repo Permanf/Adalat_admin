@@ -1,0 +1,7 @@
+export const SET_SITES      = 'SET_SITES'
+export const LOAD_SITES     = 'LOAD_SITES'
+export const ADD_SITE       = 'ADD_SITE'
+export const POST_SITE      = 'POST_SITE'
+export const REMOVE_SITE    = 'REMOVE_SITE'
+export const DELETE_CONFIRM = 'DELETE_CONFIRM'
+export const DELETE_SITE    = 'DELETE_SITE'

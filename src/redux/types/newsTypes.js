@@ -1,0 +1,8 @@
+export const SET_NEWS      = 'NEWS/SET_NEWS'
+export const LOAD_NEWS     = 'NEWS/LOAD_NEWS'
+export const POST_NEWS     = 'NEWS/POST_NEWS'
+export const PUT_NEWS      = 'NEWS/PUT_NEWS'
+export const ADD_NEWS      = 'NEWS/ADD_NEWS'
+export const GET_NEWS_ITEM = 'NEWS/GET_NEWS_ITEM'
+export const SET_NEWS_ITEM = 'NEWS/SET_NEWS_ITEM'
+export const REMOVE_NEWS   = 'NEWS/REMOVE_NEWS'

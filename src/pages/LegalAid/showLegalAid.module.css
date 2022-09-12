@@ -1,0 +1,4 @@
+.wrapper table, .wrapper table td, .wrapper table th{
+    border: 1px solid #ccc;
+    padding: 0.5rem;
+}

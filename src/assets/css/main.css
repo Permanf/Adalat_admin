@@ -1,0 +1,116 @@
+::-webkit-scrollbar {
+    width: 4px;
+    background: #eee;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #ddd;
+    border-radius: 5px;
+}
+
+*:focus {
+    outline: none !important;
+}
+
+body {
+    background: #f3f3f3 !important;
+}
+
+.loader-bg {
+    background: rgba(14, 114, 59, 0.8) !important;
+}
+
+.bg-white-50 {
+    background-color: rgba(255,255,255, .8) !important;
+}
+
+.shadow-gray-sm {
+    box-shadow: 0 0 5px rgba(0,0,0,0.1)
+}
+
+.shadow-gray {
+    box-shadow: 0 0 10px rgba(0,0,0,0.1)
+}
+
+.shadow-gray-md {
+    box-shadow: 0 0 20px rgba(0,0,0,0.1)
+}
+
+.shadow-gray-lg {
+    box-shadow: 0 0 30px rgba(0,0,0,0.1)
+}
+
+.ck.ck-editor__editable_inline {
+    background-color: #fff;
+    border: 1px solid #ddd !important;
+    border-top: 1px solid #f0f0f0 !important;
+    min-height: 200px;
+    max-height: 600px;
+}
+
+.ck.ck-toolbar {
+    border: 1px solid #ddd !important;
+    border-bottom: 1px solid transparent !important;
+}
+
+.ck-focused {
+    box-shadow: none !important;
+}
+
+.h-85 {
+    height: 22rem;
+}
+
+.h-125 {
+    height: 27rem;
+}
+
+.react-daterange-picker__wrapper {
+    border: none !important;
+    padding: .5rem 1rem;
+}
+.react-calendar {
+    border: 1px solid #eee !important;
+    border-radius: 20px;
+    padding: 10px;
+    font-family: Montserrat-Medium !important;
+}
+
+.react-calendar button {
+    border-radius: 30px;
+}
+
+.react-calendar__tile {
+    border: 1px solid transparent !important;
+    border-radius: 3rem;
+}
+
+.react-calendar__tile--now {
+    background-color: transparent !important;
+    font-weight: bolder;
+    font-size: 18px !important;
+}
+
+.react-calendar__tile--active {
+    background-color: #22c55e80 !important;
+}
+.backTable figure{
+    width:100%;
+    
+  }
+  .backTable figure table{
+    table-layout: auto;
+    width:100%;
+  }
+  .backTable figure table  tr{
+    border-top-width: 1px;
+    text-align: center;
+    border-width: 1px;
+    border-color:black;
+  }
+  .backTable figure table tr td{
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    border-width: 1px;
+    border-color:black;
+  }
